@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'newyear',
-    'survey.apps.SurveyConfig',
+    'survey',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
